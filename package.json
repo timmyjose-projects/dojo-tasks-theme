@@ -1,6 +1,6 @@
 {
   "name": "@timmyjose/dojo-tasks-theme",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Custom theme for the Dojo Tasks project",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
